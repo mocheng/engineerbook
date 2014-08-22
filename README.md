@@ -79,3 +79,8 @@ engineerbook
 
 最典型的两个例子，一个来自Twitter，一个来自Facebook。
 
+Twitter的工程师曾经鼓吹hash bang方式的网页，服务器只返回JSON格式的内容，HTML由浏览器中的JavaScript生成，并在Twitter的网页里实践这种方法。
+
+这种做法，有一个假设，就是用JSON取代HTML减少的网络延迟，能够弥补浏览器中的JavaScript速度的延迟，用一个脑细胞都知道，如果这一点不成立，这个做法也就不成立了。
+
+
