@@ -94,3 +94,14 @@ Twitter的工程师曾经鼓吹hash bang方式的网页，服务器只返回JSON
 如果跟风觉得Twitter和Facebook说行的东西就决定行，结果也就是这么惨。
 
 所以，最重要的是有自己的观点，明白事情背后的原理。
+
+### 构建软件系统的基本架构
+
+构建一个像样的软件系统，兵马未动粮草先行，写代码之前有几样东西先要建起来。
+
+第一，是版本控制系统，比如SVN，比如GIT。
+
+第二，是Bug Tracking系统，比如Bugzilla，比如JIRA，当然，像github这样的，既是版本控制系统，也有Bug Tracking系统。
+
+第三，是自动化集成测试系统，也就是Continuous Integration，比如Jenkins。
+
