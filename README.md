@@ -105,3 +105,4 @@ Twitter的工程师曾经鼓吹hash bang方式的网页，服务器只返回JSON
 
 第三，是自动化集成测试系统，也就是Continuous Integration，比如Jenkins。
 
+除此之外，还需要Application Performance Monitor，产品环境中发生的事情，只有通过这个监控才能了如指掌。
